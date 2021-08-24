@@ -1,0 +1,12 @@
+.fb-icon:hover{
+    color: #3b5998;
+}
+.twt-icon:hover{
+    color: #00acee;
+}
+.inst-icon:hover{
+    background: linear-gradient(145deg, #3051F1 10%, #C92BB7 70%) no-repeat;
+}
+.yt-icon:hover{
+    color: #c4302b;
+}
